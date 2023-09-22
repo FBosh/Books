@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Books</string>
+
+    <string name="txt_url">URL</string>
+    <string name="txt_connect">Connect</string>
+
+    <string name="txt_bid">BID</string>
+
+    <string name="txt_sv_ip">Server IP</string>
+    <string name="txt_save">Save</string>
+</resources>
